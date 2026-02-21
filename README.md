@@ -10,6 +10,6 @@ Through case studies, several programming excercises and a final project as indi
 
 All content (currently) in German.
 
-Notebooks for the lecture uploaded, slides currently in revision, upload will follow.
+The materials will be continuously updated to keep on track with the fast moving research.
 
 Feedback regarding errors, mistakes or improvements highly appreciated... :-)
